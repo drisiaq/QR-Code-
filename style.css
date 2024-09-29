@@ -1,0 +1,28 @@
+body{
+    height: 100%;
+    background: hsl(216, 15%, 45%)
+} 
+.card{
+    background: hsl(0, 0%, 100%);
+    width: 250px;
+    border-radius: 20px;
+    padding: 20px;
+    color: black;
+    font-family: Outfit;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+h2{
+    font-weight: 700;
+}
+p{
+    font-size: 15px;
+    font-weight: 400;
+}
+img{
+    width:250px;
+    border-radius: 10px;
+}
