@@ -1,6 +1,6 @@
 body{
     height: 100%;
-    background: hsl(216, 15%, 45%)
+    background: hsl(216, 15%, 45%);
 } 
 .card{
     background: hsl(0, 0%, 100%);
@@ -13,7 +13,7 @@ body{
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%)
+    transform: translate(-50%, -50%);
 }
 h2{
     font-weight: 700;
